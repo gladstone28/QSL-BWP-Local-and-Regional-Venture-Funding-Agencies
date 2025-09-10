@@ -2,4 +2,4 @@
 The BWP Club is a non-profit group that was created by QSL to assist members to start their innovative bamboo businesses. The members can develop their own ideas or try to create businesses from ideas supplied by QSL. So far ideas that have been identified for development into businesses are 1. bamboo enhanced animal feed 2. engraved bamboo gift pens 3. bamboo charcoal briquettes 4. bamboo student chairs. With this information you helped to create a downloadable and editable chart that shows the name of the products in one column as well as sample pictures of each product in a second column and the name of the developer in a third column as our first output. Please see the chart attached. Can you kindly suggest venture funding agencies that could provide capital to implement these projects?
 
 
-![](./ BWP_Bamboo_Business_Ideas_Chart.jpg)
+![](./BWP_Bamboo_Business_Ideas_Chart.jpg)
